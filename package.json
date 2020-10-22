@@ -1,0 +1,58 @@
+{
+  "name": "dta",
+  "productName": "dta-app",
+  "version": "1.0.0",
+  "description": "Simple electron application UI written with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && electron ./dist/main.js",
+    "pack-all": "electron-builder",
+    "pack": "electron-builder --dir",
+    "pack-win": "electron-builder --win"
+  },
+  "keywords": [
+    "dta",
+    "dta-desctop",
+    "desktop"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digital-technology-agency/electron-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/digital-technology-agency/electron-typescript/issues"
+  },
+  "author": "Digital Technology Agency",
+  "license": "DTA",
+  "files": [
+    "out"
+  ],
+  "build": {
+    "win": {
+      "icon": "assets/logo.png",
+      "target": [
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.5.0",
+    "@typescript-eslint/parser": "^4.5.0",
+    "typescript": "^4.0.3",
+    "eslint": "^7.11.0",
+    "electron": "^10.1.4",
+    "update-electron-app": "^2.0.1",
+    "electron-installer-debian": "^3.1.0",
+    "electron-installer-windows": "^3.0.0",
+    "electron-packager": "^15.1.0",
+    "electron-winstaller": "^4.0.1",
+    "electron-builder": "^22.9.1"
+  }
+}

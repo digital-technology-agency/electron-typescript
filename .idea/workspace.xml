@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6949fa5a-3843-44ff-89ed-e8db7da309c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-typescript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preload.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jDooAAJzEq11qBiIOIJPNiolj2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6949fa5a-3843-44ff-89ed-e8db7da309c3" name="Default Changelist" comment="" />
+      <created>1603348195269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603348195269</updated>
+      <workItem from="1603348196812" duration="1555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="additionalRoots">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2338" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603348635109">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2338" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603348635109" />
+    <state x="2445" y="114" width="860" height="822" key="CommitChangelistDialog2" timestamp="1603349770985">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2445" y="114" width="860" height="822" key="CommitChangelistDialog2/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349770985" />
+    <state width="1874" height="336" key="GridCell.Tab.0.bottom" timestamp="1603349754430">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.0.bottom/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754430" />
+    <state width="1874" height="336" key="GridCell.Tab.0.center" timestamp="1603349754429">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.0.center/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754429" />
+    <state width="1874" height="336" key="GridCell.Tab.0.left" timestamp="1603349754429">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.0.left/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754429" />
+    <state width="1874" height="336" key="GridCell.Tab.0.right" timestamp="1603349754430">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.0.right/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754430" />
+    <state width="1874" height="336" key="GridCell.Tab.1.bottom" timestamp="1603349754430">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.1.bottom/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754430" />
+    <state width="1874" height="336" key="GridCell.Tab.1.center" timestamp="1603349754430">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.1.center/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754430" />
+    <state width="1874" height="336" key="GridCell.Tab.1.left" timestamp="1603349754430">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.1.left/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754430" />
+    <state width="1874" height="336" key="GridCell.Tab.1.right" timestamp="1603349754430">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.1.right/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754430" />
+    <state width="1874" height="336" key="GridCell.Tab.2.bottom" timestamp="1603349754432">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.2.bottom/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754432" />
+    <state width="1874" height="336" key="GridCell.Tab.2.center" timestamp="1603349754431">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.2.center/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754431" />
+    <state width="1874" height="336" key="GridCell.Tab.2.left" timestamp="1603349754431">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.2.left/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754431" />
+    <state width="1874" height="336" key="GridCell.Tab.2.right" timestamp="1603349754432">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.2.right/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754432" />
+    <state width="1874" height="336" key="GridCell.Tab.3.bottom" timestamp="1603349754431">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.3.bottom/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754431" />
+    <state width="1874" height="336" key="GridCell.Tab.3.center" timestamp="1603349754431">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.3.center/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754431" />
+    <state width="1874" height="336" key="GridCell.Tab.3.left" timestamp="1603349754431">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.3.left/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754431" />
+    <state width="1874" height="336" key="GridCell.Tab.3.right" timestamp="1603349754431">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.3.right/0.27.1920.1017/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603349754431" />
+  </component>
+</project>
